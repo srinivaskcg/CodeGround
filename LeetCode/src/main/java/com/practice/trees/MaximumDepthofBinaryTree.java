@@ -1,5 +1,7 @@
 package com.practice.trees;
 
+import com.practice.util.TreeNode;
+
 public class MaximumDepthofBinaryTree {
 	public int maxDepth(TreeNode root) {
 		if (root == null) {
